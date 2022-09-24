@@ -1,3 +1,3 @@
-# Capstone-Project-1
+# Airbnb Bookings Analysis - Capstone Project
 
-Airbnb Bookings Analysis - Capstone Project
+
